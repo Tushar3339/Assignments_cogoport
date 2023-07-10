@@ -1,0 +1,4 @@
+1 Notification doesn't get removed after click on cross button
+2 In hoe it works section content is not changing after clicking on buttons.
+3.After sliding down ackground color of the fixed navbar is yellow and not white
+4. Dropdowns for navbar items are not added.
